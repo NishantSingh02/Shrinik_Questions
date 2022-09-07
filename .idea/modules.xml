@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coding_Contest_Questions.iml" filepath="$PROJECT_DIR$/Coding_Contest_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_1/Ques_1.iml" filepath="$PROJECT_DIR$/Ques_1/Ques_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_2/Ques_2.iml" filepath="$PROJECT_DIR$/Ques_2/Ques_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_3/Ques_3.iml" filepath="$PROJECT_DIR$/Ques_3/Ques_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_4/Ques_4.iml" filepath="$PROJECT_DIR$/Ques_4/Ques_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_5/Ques_5.iml" filepath="$PROJECT_DIR$/Ques_5/Ques_5.iml" />
+    </modules>
+  </component>
+</project>
