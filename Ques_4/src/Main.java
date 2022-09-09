@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt(); // no. of testcases
-
         while(t-->0) {
             String s = scan.next();
             String[] a = s.split("[/-]");
@@ -13,6 +12,7 @@ public class Main {
             int year = Integer.parseInt(a[2]);
             String res = dayOfTheWeek(day, month, year);
             System.out.println(res);
+            scan.nextLine();
         }
         scan.close();
     }
@@ -44,32 +44,13 @@ public class Main {
 
     private static int calcMonth(int month)
     {
-        return switch (month) {
-            case 2, 3 -> 3;
-            case 4 -> 6;
-            case 5 -> 8;
-            case 6 -> 11;
-            case 7 -> 13;
-            case 8 -> 16;
-            case 9 -> 19;
-            case 10 -> 21;
-            case 11 -> 24;
-            case 12 -> 26;
-            default -> 0;
-        };
+        int[] months = {0,0,3,3,6,8,11,13,16,19,21,24,26};
+        return months[month];
     }
 
     private static String calcDay(int day)
     {
-        return switch (day) {
-            case 0 -> "Sunday";
-            case 1 -> "Monday";
-            case 2 -> "Tuesday";
-            case 3 -> "Wednesday";
-            case 4 -> "Thursday";
-            case 5 -> "Friday";
-            case 6 -> "Saturday";
-            default -> "";
-        };
+        String[] days = {"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"};
+        return days[day];
     }
 }
