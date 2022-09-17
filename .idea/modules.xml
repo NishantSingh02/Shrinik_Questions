@@ -3,12 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Coding_Contest_Questions.iml" filepath="$PROJECT_DIR$/Coding_Contest_Questions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ques_1/Ques_1_Special Matrix.iml" filepath="$PROJECT_DIR$/Ques_1/Ques_1_Special Matrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ques_2/Ques_2_Keyboard _Malfunctioning.iml" filepath="$PROJECT_DIR$/Ques_2/Ques_2_Keyboard _Malfunctioning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ques_3/Ques_3_Generate_N_Pattern.iml" filepath="$PROJECT_DIR$/Ques_3/Ques_3_Generate_N_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ques_4/Ques_4_Day_from_Date.iml" filepath="$PROJECT_DIR$/Ques_4/Ques_4_Day_from_Date.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ques_5/Ques_5_Find_the_special_Numbers..iml" filepath="$PROJECT_DIR$/Ques_5/Ques_5_Find_the_special_Numbers..iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ques_6/Ques_6_Vertical_Order_Traversal.iml" filepath="$PROJECT_DIR$/Ques_6/Ques_6_Vertical_Order_Traversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_1_Special_Matrix/Ques_1_Special_Matrix.iml" filepath="$PROJECT_DIR$/Ques_1_Special_Matrix/Ques_1_Special_Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_2_Keyboard _Malfunctioning/Ques_2_Keyboard _Malfunctioning.iml" filepath="$PROJECT_DIR$/Ques_2_Keyboard _Malfunctioning/Ques_2_Keyboard _Malfunctioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_3_Generate_N_Pattern/Ques_3_Generate_N_Pattern.iml" filepath="$PROJECT_DIR$/Ques_3_Generate_N_Pattern/Ques_3_Generate_N_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_4_Day_from_Date/Ques_4_Day_from_Date.iml" filepath="$PROJECT_DIR$/Ques_4_Day_from_Date/Ques_4_Day_from_Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_5_Find_the_special_Numbers./Ques_5_Find_the_special_Numbers..iml" filepath="$PROJECT_DIR$/Ques_5_Find_the_special_Numbers./Ques_5_Find_the_special_Numbers..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ques_6_Vertical_Order_Traversal/Ques_6_Vertical_Order_Traversal.iml" filepath="$PROJECT_DIR$/Ques_6_Vertical_Order_Traversal/Ques_6_Vertical_Order_Traversal.iml" />
     </modules>
   </component>
 </project>
