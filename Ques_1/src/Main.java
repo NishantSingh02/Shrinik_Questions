@@ -2,6 +2,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*Special Matrix
+* Nishant wants to access a particular row of the special matrix. Help him by output that row.
+The special matrix is generated as:
+Given number of rows m, number of cols n and rowNumber k.
+Generate a m x n matrix by filling m*n numbers in matrix in reverse order in a spiral form.
+Output the kth row of the generated matrix*/
+
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

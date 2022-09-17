@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/*The aptitude teacher was making Nishant impatient by repeatedly asking the days on the given dates. Nishant thought to generate a program with same approach discussed
+by the teacher which is in turn one of the fastest approach to solve this problem.
+Now, he wants to know your approach.
+Given a Date String in the form of "DD/MM/YYYY" or "DD-MM-YYYY" or "DD/MM-YYYY" or "DD-MM/YYYY".
+Output the Day as String.
+Constraint: 1970<year<=2100*/
+
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

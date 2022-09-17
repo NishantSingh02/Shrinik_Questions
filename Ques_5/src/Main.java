@@ -2,8 +2,12 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+/*Output all positive integers of length n such that the absolute
+     difference between every two consecutive digits is K.
+     Note that: every number in the answer must not have leading zeros.
+     For example, 01 has one leading zero and is invalid.*/
 
+public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt(); //no. of testcases

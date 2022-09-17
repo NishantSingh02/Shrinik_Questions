@@ -2,6 +2,18 @@ import java.util.Scanner;
 
 public class Main {
     //pattern print
+
+    /*Nishant is trying to print first letter of his name using a program.
+    Generate the first letter of his name.
+    Given a integer n, output the following pattern of height n and width (4*n)-1
+    nnnnnnnnnnnn     nnnnnn
+    nnnnnn nnnnnn    nnnnnn
+    nnnnnn  nnnnnn   nnnnnn
+    nnnnnn   nnnnnn  nnnnnn
+    nnnnnn    nnnnnn nnnnnn
+    nnnnnn     nnnnnnnnnnnn
+    The above pattern is of height n=6 and width 23.*/
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t= scan.nextInt(); //no. of testcases

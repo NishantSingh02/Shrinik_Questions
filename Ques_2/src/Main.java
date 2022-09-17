@@ -1,7 +1,12 @@
 import java.util.Scanner;
 
 //Absolute Difference between Sum of Visible and Invisible Numbers
-//
+
+/*Nishant was gifted a cheap keyboard by his classmate Naman. The keyboard began to malfunction after some time. Nishant wants to know the following information about the keyboard. Help him to know that.
+While writing numbers from 1 to n in an array of size n. the Keyboard malfunctions such that some of the numbers are not typed and some get typed more than once.
+After finding the numbers which do not get typed. Output the absolute difference between the sum of typed numbers and sum of disappered numbers.
+Note: While Calculating sum of the typed numbers each number is counted only once.*/
+
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
